@@ -8,9 +8,9 @@ sites:
   - name: Homepage
     url: https://stjohn.edu.et
   - name: Email
-    url: https://mail.goole.com/a/stjohn.edu.et
+    url: https://mail.google.com/a/stjohn.edu.et
   - name: Servers
-    url: https://home.stjohn.edu.et
+    url: https://home.stjohn.edu.et/ping.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
