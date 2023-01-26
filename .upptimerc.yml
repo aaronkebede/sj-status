@@ -5,20 +5,42 @@ repo: sj-status # The name of this repository
 sites:
   - name: Elearn
     url: https://learn.stjohn.edu.et
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404  
   - name: Homepage
     url: https://stjohn.edu.et
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Email
     url: https://mail.google.com/a/stjohn.edu.et
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Servers
     url: https://home.stjohn.edu.et/ping.html
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: dark
   cname: sys.stjohn.edu.et
   # baseUrl: /your-repo-name
   logoUrl: https://stjohn.edu.et/images/logo.png
   name: St John System Status
+  favicon: https://stjohn.edu.et/images/favicon.png
   introTitle: Discover the status of our systems.
   introMessage: This is a status page which uses **real-time** data to check for availablity of our systems.
   navbar:
@@ -30,6 +52,9 @@ status-website:
       href: https://learn.stjohn.edu.et
     - title: Docs
       href: https://wiki.stjohn.edu.et
+   
+  i18n:
+  footer: St John Baptist De La Salle Catholic School   
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
