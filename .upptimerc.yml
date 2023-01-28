@@ -4,7 +4,7 @@ repo: sj-status # The name of this repository
 
 sites:
   - name: Elearn
-    url: https://learn.stjohn.edu.et
+    url: https://learn.stjohn.edu.et/app
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
