@@ -4,19 +4,19 @@
     "url": "https://learn.stjohn.edu.et/app",
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 869,
-    "timeWeek": 939,
-    "timeMonth": 939,
-    "timeYear": 939,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 930,
+    "timeDay": 838,
+    "timeWeek": 930,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {
-      "2023-02-01": 0
+      "2023-02-01": 10
     }
   },
   {
