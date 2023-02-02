@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "96.07%",
-    "uptimeDay": "71.15%",
-    "uptimeWeek": "95.72%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
+    "uptime": "95.97%",
+    "uptimeDay": "70.29%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
     "time": 841,
     "timeDay": 445,
     "timeWeek": 919,
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-02-02": 416,
+      "2023-02-02": 428,
       "2023-02-01": 16
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/stjohn.edu.et.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "79.75%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "97.35%",
-    "uptimeYear": "97.35%",
+    "status": "down",
+    "uptime": "97.45%",
+    "uptimeDay": "80.49%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
     "time": 342,
     "timeDay": 213,
     "timeWeek": 306,
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2023-02-02": 291
+      "2023-02-02": 281
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://home.stjohn.edu.et/ping.html",
     "icon": "https://icons.duckduckgo.com/ip3/home.stjohn.edu.et.ico",
     "slug": "servers",
-    "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "83.45%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "84.20%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
     "time": 367,
     "timeDay": 109,
     "timeWeek": 265,
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-02-02": 238,
+      "2023-02-02": 227,
       "2023-01-26": 6
     }
   }
