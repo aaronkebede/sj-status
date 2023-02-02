@@ -4,17 +4,17 @@
     "url": "https://learn.stjohn.edu.et/app",
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
-    "status": "down",
-    "uptime": "99.83%",
+    "status": "up",
+    "uptime": "99.84%",
     "uptimeDay": "98.90%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 930,
-    "timeDay": 838,
-    "timeWeek": 930,
-    "timeMonth": 930,
-    "timeYear": 930,
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 916,
+    "timeDay": 809,
+    "timeWeek": 916,
+    "timeMonth": 916,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2023-02-01": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 219,
-    "timeWeek": 436,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "time": 434,
+    "timeDay": 417,
+    "timeWeek": 434,
+    "timeMonth": 434,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 169,
-    "timeDay": 92,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 168,
+    "timeDay": 157,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2023-01-26": 6
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 579,
-    "timeDay": 460,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "time": 561,
+    "timeDay": 364,
+    "timeWeek": 561,
+    "timeMonth": 561,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2023-01-26": 6
     }
