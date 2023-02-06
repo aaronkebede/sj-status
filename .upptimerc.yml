@@ -25,7 +25,7 @@ sites:
       - 201
       - 404
   - name: Servers
-    url: https://home.stjohn.edu.et/ping.html
+    url: http://137.184.201.194/ping.html
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
