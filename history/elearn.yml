@@ -1,7 +1,7 @@
 url: https://learn.stjohn.edu.et/app
-status: up
-code: 200
-responseTime: 779
-lastUpdated: 2023-03-13T23:07:53.721Z
+status: degraded
+code: 500
+responseTime: 23056
+lastUpdated: 2023-03-14T11:05:09.823Z
 startTime: Thu Jan 26 2023 06:29:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
