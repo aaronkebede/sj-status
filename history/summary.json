@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "16.23%",
+    "uptime": "16.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1050,
+    "time": 1054,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-16": 81,
+      "2024-05-17": 81,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -379,8 +380,7 @@
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
-      "2023-05-19": 1440,
-      "2023-05-18": 1440
+      "2023-05-19": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stjohn.edu.et.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.12%",
     "time": 490,
-    "timeDay": 288,
-    "timeWeek": 335,
-    "timeMonth": 376,
-    "timeYear": 501,
+    "timeDay": 433,
+    "timeWeek": 361,
+    "timeMonth": 379,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2024-04-03": 19,
       "2023-12-07": 233,
@@ -443,10 +443,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 151,
-    "timeWeek": 209,
-    "timeMonth": 192,
-    "timeYear": 254,
+    "timeDay": 107,
+    "timeWeek": 185,
+    "timeMonth": 191,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2023-12-07": 31
     }
@@ -457,7 +457,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/137.184.201.194.ico",
     "slug": "servers",
     "status": "down",
-    "uptime": "18.09%",
+    "uptime": "18.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2024-05-16": 81,
+      "2024-05-17": 81,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -825,8 +826,7 @@
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
-      "2023-05-19": 1440,
-      "2023-05-18": 1440
+      "2023-05-19": 1440
     }
   }
 ]
