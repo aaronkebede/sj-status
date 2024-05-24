@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 81,
+      "2024-05-24": 85,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -388,9 +388,9 @@
     "url": "https://stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/stjohn.edu.et.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.13%",
@@ -400,6 +400,7 @@
     "timeMonth": 364,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2024-05-24": 0,
       "2024-04-03": 19,
       "2023-12-07": 233,
       "2023-12-06": 1440,
@@ -466,7 +467,7 @@
     "timeMonth": 0,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2024-05-24": 81,
+      "2024-05-24": 85,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
