@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "15.61%",
+    "uptime": "15.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-04": 83,
+      "2024-06-05": 83,
+      "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -379,8 +380,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stjohn.edu.et.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "97.17%",
-    "time": 492,
-    "timeDay": 422,
-    "timeWeek": 441,
-    "timeMonth": 371,
-    "timeYear": 485,
+    "time": 491,
+    "timeDay": 210,
+    "timeWeek": 422,
+    "timeMonth": 366,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2024-05-24": 311,
       "2024-04-03": 19,
@@ -437,9 +437,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 207,
-    "timeWeek": 193,
-    "timeMonth": 182,
+    "timeDay": 110,
+    "timeWeek": 188,
+    "timeMonth": 180,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2023-12-07": 31
@@ -451,7 +451,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/137.184.201.194.ico",
     "slug": "servers",
     "status": "down",
-    "uptime": "17.40%",
+    "uptime": "17.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -462,7 +462,8 @@
     "timeMonth": 0,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2024-06-04": 83,
+      "2024-06-05": 83,
+      "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -819,8 +820,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   }
 ]
