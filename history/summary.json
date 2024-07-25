@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "14.17%",
+    "uptime": "14.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-24": 94,
+      "2024-07-25": 93,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -379,8 +380,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.22%",
-    "time": 497,
-    "timeDay": 795,
+    "time": 498,
+    "timeDay": 653,
     "timeWeek": 738,
-    "timeMonth": 735,
+    "timeMonth": 736,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2024-05-24": 311,
@@ -428,9 +428,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 153,
-    "timeWeek": 187,
-    "timeMonth": 199,
+    "timeDay": 221,
+    "timeWeek": 202,
+    "timeMonth": 201,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2023-12-07": 31
@@ -442,18 +442,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/137.184.201.194.ico",
     "slug": "servers",
     "status": "down",
-    "uptime": "15.80%",
+    "uptime": "15.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "1.66%",
-    "time": 59,
+    "time": 60,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2024-07-24": 94,
+      "2024-07-25": 94,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -810,8 +811,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   }
 ]
