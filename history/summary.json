@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "13.58%",
+    "uptime": "13.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1128,
+    "time": 993,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-17": 86,
+      "2024-08-18": 100,
+      "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
@@ -379,8 +380,7 @@
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
-      "2023-08-20": 1440,
-      "2023-08-19": 1440
+      "2023-08-20": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stjohn.edu.et.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.24%",
-    "time": 508,
-    "timeDay": 1062,
-    "timeWeek": 796,
-    "timeMonth": 757,
-    "timeYear": 474,
+    "time": 509,
+    "timeDay": 798,
+    "timeWeek": 779,
+    "timeMonth": 761,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2024-05-24": 311,
       "2024-04-03": 19,
@@ -429,8 +429,8 @@
     "time": 235,
     "timeDay": 211,
     "timeWeek": 192,
-    "timeMonth": 191,
-    "timeYear": 261,
+    "timeMonth": 194,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2023-12-07": 31
     }
@@ -441,7 +441,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/137.184.201.194.ico",
     "slug": "servers",
     "status": "down",
-    "uptime": "15.13%",
+    "uptime": "15.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -452,7 +452,8 @@
     "timeMonth": 0,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2024-08-17": 86,
+      "2024-08-18": 100,
+      "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
@@ -809,8 +810,7 @@
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
-      "2023-08-20": 1440,
-      "2023-08-19": 1440
+      "2023-08-20": 1440
     }
   }
 ]
