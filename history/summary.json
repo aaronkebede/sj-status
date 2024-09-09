@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.stjohn.edu.et.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "13.07%",
+    "uptime": "13.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-08": 107,
+      "2024-09-09": 103,
+      "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -379,8 +380,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.24%",
     "time": 519,
-    "timeDay": 894,
-    "timeWeek": 807,
-    "timeMonth": 815,
+    "timeDay": 578,
+    "timeWeek": 790,
+    "timeMonth": 808,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2024-05-24": 311,
@@ -427,9 +427,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 342,
+    "timeDay": 150,
     "timeWeek": 196,
-    "timeMonth": 198,
+    "timeMonth": 190,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2023-12-07": 31
@@ -441,7 +441,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/137.184.201.194.ico",
     "slug": "servers",
     "status": "down",
-    "uptime": "14.57%",
+    "uptime": "14.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -452,7 +452,8 @@
     "timeMonth": 0,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2024-09-08": 107,
+      "2024-09-09": 103,
+      "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -809,8 +810,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   }
 ]
