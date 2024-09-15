@@ -31,10 +31,10 @@ sites:
       - 200
       - 201
       - 404
-- name: HelpDesk
-  url: https://help.stjohn.edu.et
-  maxResponseTime: 5000
-  expectedStatusCodes:
+  - name: St John IT Help Desk
+    url: https://help.stjohn.edu.et
+    maxResponseTime: 5000
+    expectedStatusCodes:
       - 200
       - 201
       - 404
