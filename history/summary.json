@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/classroom.google.com.ico",
     "slug": "st-john-lms",
     "status": "up",
-    "uptime": "2.07%",
-    "uptimeDay": "2.07%",
-    "uptimeWeek": "2.07%",
-    "uptimeMonth": "2.07%",
-    "uptimeYear": "2.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2024-09-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Main Wesbite",
