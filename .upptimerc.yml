@@ -3,44 +3,52 @@ owner: aaronkebede # Your GitHub organization or username, where this repository
 repo: sj-status # The name of this repository
 
 sites:
-  - name: Elearn
-    url: https://learn.stjohn.edu.et/app
+  - name: St John LMS
+    url: https://classroom.google.come/a/stjohn.edu.et
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
       - 404  
-  - name: Homepage
+  - name: Main Wesbite
     url: https://stjohn.edu.et
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: Email
+  - name: Email and Workspace Services
     url: https://mail.google.com/a/stjohn.edu.et
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: Servers
-    url: http://137.184.201.194/ping.html
+  - name: LTS
+    url: https://lts.stjohn.edu.et
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
       - 404
+- name: HelpDesk
+  url: https://help.stjohn.edu.et
+  maxResponseTime: 5000
+  expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  theme: dark
+  theme: light
   cname: sys.stjohn.edu.et
   # baseUrl: /your-repo-name
-  logoUrl: https://stjohn.edu.et/images/logo.png
+  logoUrl: https://old.stjohn.edu.et/images/logo.png
   name: St John System Status
-  favicon: https://stjohn.edu.et/images/favicon.png
+  favicon: https://old.stjohn.edu.et/images/favicon.png
   introTitle: Discover the status of our systems.
   introMessage: This is a status page which uses **real-time** data to check for availablity of our systems.
   navbar:
@@ -48,10 +56,10 @@ status-website:
       href: /
     - title: Home
       href: https://stjohn.edu.et
-    - title: E-learn
-      href: https://learn.stjohn.edu.et
-    - title: Docs
-      href: https://wiki.stjohn.edu.et
+    - title: Get help
+      href: https://help.stjohn.edu.et
+    - title: Services
+      href: https://lts.stjohn.edu.et
    
   i18n:
   footer: St John Baptist De La Salle Catholic School   
