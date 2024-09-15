@@ -4,7 +4,7 @@ repo: sj-status # The name of this repository
 
 sites:
   - name: St John LMS
-    url: https://classroom.google.come/a/stjohn.edu.et
+    url: https://classroom.google.com/a/stjohn.edu.et
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -26,6 +26,20 @@ sites:
       - 404
   - name: LTS
     url: https://lts.stjohn.edu.et
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: St John News Repository
+    url: https://news.stjohn.edu.et
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: IC LMS
+    url: https://interactclub.stjohn.edu.et
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
