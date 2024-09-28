@@ -96,19 +96,19 @@
     "url": "https://interactclub.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/interactclub.stjohn.edu.et.ico",
     "slug": "ic-lms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 1058,
-    "timeWeek": 834,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 925,
+    "timeDay": 1807,
+    "timeWeek": 1049,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2024-09-28": 0
+      "2024-09-28": 20
     }
   },
   {
