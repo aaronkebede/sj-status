@@ -22,10 +22,10 @@
     "url": "https://stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/stjohn.edu.et.ico",
     "slug": "main-wesbite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
     "time": 821,
@@ -34,6 +34,7 @@
     "timeMonth": 821,
     "timeYear": 821,
     "dailyMinutesDown": {
+      "2024-09-30": 2,
       "2024-09-17": 44
     }
   },
@@ -60,54 +61,59 @@
     "url": "https://lts.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/lts.stjohn.edu.et.ico",
     "slug": "lts",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 586,
     "timeDay": 280,
     "timeWeek": 591,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-30": 2
+    }
   },
   {
     "name": "St John News Repository",
     "url": "https://news.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/news.stjohn.edu.et.ico",
     "slug": "st-john-news-repository",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 415,
     "timeDay": 178,
     "timeWeek": 398,
     "timeMonth": 415,
     "timeYear": 415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-30": 1
+    }
   },
   {
     "name": "IC LMS",
     "url": "https://interactclub.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/interactclub.stjohn.edu.et.ico",
     "slug": "ic-lms",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 979,
     "timeDay": 1161,
     "timeWeek": 1176,
     "timeMonth": 979,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2024-09-30": 1,
       "2024-09-28": 20
     }
   },
@@ -116,7 +122,7 @@
     "url": "https://help.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/help.stjohn.edu.et.ico",
     "slug": "st-john-it-help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -127,6 +133,8 @@
     "timeWeek": 1031,
     "timeMonth": 916,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   }
 ]
