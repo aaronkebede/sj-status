@@ -26,7 +26,7 @@ sites:
       - 404
   - name: LTS
     url: https://lts.stjohn.edu.et
-    maxResponseTime: 5000
+    maxResponseTime: 6000
     expectedStatusCodes:
       - 200
       - 201
@@ -46,7 +46,7 @@ sites:
       - 201
       - 404
   - name: St John IT Help Desk
-    url: https://help.stjohn.edu.et
+    url: https://help.stjohn.edu.et/portal/en/home
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
