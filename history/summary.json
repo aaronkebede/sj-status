@@ -125,9 +125,9 @@
     "url": "https://help.stjohn.edu.et/portal/en/home",
     "icon": "https://icons.duckduckgo.com/ip3/help.stjohn.edu.et.ico",
     "slug": "st-john-it-help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -137,6 +137,7 @@
     "timeMonth": 781,
     "timeYear": 769,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-09-30": 32
     }
   }
