@@ -62,9 +62,9 @@
     "url": "https://lts.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/lts.stjohn.edu.et.ico",
     "slug": "lts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -74,6 +74,7 @@
     "timeMonth": 480,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-10-26": 102,
       "2024-09-30": 33
     }
