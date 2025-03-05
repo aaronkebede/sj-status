@@ -4,17 +4,17 @@
     "url": "https://classroom.google.com/a/stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/classroom.google.com.ico",
     "slug": "st-john-lms",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.81%",
-    "uptimeDay": "79.42%",
+    "uptimeDay": "79.39%",
     "uptimeWeek": "93.26%",
-    "uptimeMonth": "93.29%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "98.81%",
-    "time": 2989,
-    "timeDay": 3994,
-    "timeWeek": 3612,
-    "timeMonth": 3740,
-    "timeYear": 2989,
+    "time": 2994,
+    "timeDay": 4069,
+    "timeWeek": 3605,
+    "timeMonth": 3744,
+    "timeYear": 2994,
     "dailyMinutesDown": {
       "2025-03-05": 234,
       "2025-03-04": 93,
@@ -38,8 +38,7 @@
       "2025-02-14": 148,
       "2025-02-13": 46,
       "2025-02-12": 155,
-      "2025-02-11": 98,
-      "2025-02-10": 17
+      "2025-02-11": 98
     }
   },
   {
@@ -70,17 +69,17 @@
     "url": "https://mail.google.com/a/stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "email-and-workspace-services",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "79.62%",
+    "status": "degraded",
+    "uptime": "98.82%",
+    "uptimeDay": "79.61%",
     "uptimeWeek": "93.49%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "98.81%",
-    "time": 2879,
-    "timeDay": 3529,
-    "timeWeek": 3302,
-    "timeMonth": 3635,
-    "timeYear": 2879,
+    "uptimeMonth": "93.38%",
+    "uptimeYear": "98.82%",
+    "time": 2883,
+    "timeDay": 3599,
+    "timeWeek": 3291,
+    "timeMonth": 3638,
+    "timeYear": 2883,
     "dailyMinutesDown": {
       "2025-03-05": 232,
       "2025-03-04": 91,
@@ -105,7 +104,7 @@
       "2025-02-13": 46,
       "2025-02-12": 153,
       "2025-02-11": 96,
-      "2025-02-10": 83
+      "2025-02-10": 57
     }
   },
   {
