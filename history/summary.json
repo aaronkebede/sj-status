@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/classroom.google.com.ico",
     "slug": "st-john-lms",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "94.45%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "98.86%",
+    "uptime": "98.85%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "98.85%",
     "time": 2968,
     "timeDay": 3525,
-    "timeWeek": 3528,
+    "timeWeek": 3493,
     "timeMonth": 3727,
     "timeYear": 2968,
     "dailyMinutesDown": {
-      "2025-03-04": 104,
+      "2025-03-04": 93,
       "2025-03-03": 20,
       "2025-03-02": 140,
       "2025-03-01": 58,
@@ -38,7 +38,8 @@
       "2025-02-13": 46,
       "2025-02-12": 155,
       "2025-02-11": 98,
-      "2025-02-10": 115
+      "2025-02-10": 115,
+      "2025-02-09": 28
     }
   },
   {
@@ -70,18 +71,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "email-and-workspace-services",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "93.61%",
-    "uptimeYear": "98.86%",
+    "uptime": "98.82%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "98.82%",
     "time": 2870,
     "timeDay": 3711,
-    "timeWeek": 3308,
+    "timeWeek": 3268,
     "timeMonth": 3639,
     "timeYear": 2870,
     "dailyMinutesDown": {
-      "2025-03-04": 102,
+      "2025-03-04": 91,
       "2025-03-03": 19,
       "2025-03-02": 124,
       "2025-03-01": 58,
@@ -104,7 +105,8 @@
       "2025-02-12": 153,
       "2025-02-11": 96,
       "2025-02-10": 113,
-      "2025-02-09": 67
+      "2025-02-09": 165,
+      "2025-02-08": 15
     }
   },
   {
