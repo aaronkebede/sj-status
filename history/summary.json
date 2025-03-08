@@ -6,17 +6,17 @@
     "slug": "st-john-lms",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "53.83%",
-    "uptimeWeek": "76.34%",
-    "uptimeMonth": "91.32%",
+    "uptimeDay": "59.11%",
+    "uptimeWeek": "76.45%",
+    "uptimeMonth": "91.30%",
     "uptimeYear": "98.48%",
     "time": 3130,
-    "timeDay": 3926,
+    "timeDay": 4066,
     "timeWeek": 3889,
     "timeMonth": 3791,
     "timeYear": 3130,
     "dailyMinutesDown": {
-      "2025-03-07": 657,
+      "2025-03-07": 646,
       "2025-03-06": 774,
       "2025-03-05": 645,
       "2025-03-04": 93,
@@ -33,7 +33,7 @@
       "2025-02-21": 156,
       "2025-02-20": 187,
       "2025-02-19": 161,
-      "2025-02-18": 100
+      "2025-02-18": 123
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "email-and-workspace-services",
     "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "54.14%",
-    "uptimeWeek": "76.69%",
-    "uptimeMonth": "91.37%",
-    "uptimeYear": "98.49%",
+    "uptime": "98.48%",
+    "uptimeDay": "59.36%",
+    "uptimeWeek": "76.79%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "98.48%",
     "time": 3004,
-    "timeDay": 3938,
+    "timeDay": 3995,
     "timeWeek": 3609,
     "timeMonth": 3666,
     "timeYear": 3004,
     "dailyMinutesDown": {
-      "2025-03-07": 651,
+      "2025-03-07": 641,
       "2025-03-06": 765,
       "2025-03-05": 641,
       "2025-03-04": 91,
@@ -94,7 +94,7 @@
       "2025-02-20": 184,
       "2025-02-19": 159,
       "2025-02-18": 121,
-      "2025-02-17": 24
+      "2025-02-17": 55
     }
   },
   {
