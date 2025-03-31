@@ -1,7 +1,7 @@
 url: https://mail.google.com/a/stjohn.edu.et
-status: up
+status: degraded
 code: 200
-responseTime: 103
-lastUpdated: 2025-03-31T18:25:30.148Z
+responseTime: 5258
+lastUpdated: 2025-03-31T18:59:42.390Z
 startTime: 2024-09-15T06:28:05.500Z
 generator: Upptime <https://github.com/upptime/upptime>
