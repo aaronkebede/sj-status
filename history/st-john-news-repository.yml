@@ -1,7 +1,7 @@
 url: https://news.stjohn.edu.et
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2025-08-29T08:13:15.819Z
+status: down
+code: 429
+responseTime: 788
+lastUpdated: 2025-08-29T08:53:39.597Z
 startTime: 2024-09-15T06:33:30.590Z
 generator: Upptime <https://github.com/upptime/upptime>
