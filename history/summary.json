@@ -147,19 +147,19 @@
     "url": "https://news.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/news.stjohn.edu.et.ico",
     "slug": "st-john-news-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "24.55%",
-    "uptimeWeek": "45.74%",
-    "uptimeMonth": "85.69%",
+    "uptimeDay": "27.91%",
+    "uptimeWeek": "45.73%",
+    "uptimeMonth": "85.74%",
     "uptimeYear": "98.79%",
-    "time": 542,
-    "timeDay": 507,
-    "timeWeek": 546,
-    "timeMonth": 552,
-    "timeYear": 542,
+    "time": 543,
+    "timeDay": 523,
+    "timeWeek": 549,
+    "timeMonth": 553,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-09-10": 291,
+      "2025-09-10": 292,
       "2025-09-09": 1071,
       "2025-09-08": 1014,
       "2025-09-07": 896,
@@ -168,7 +168,7 @@
       "2025-09-04": 648,
       "2025-09-03": 611,
       "2025-09-02": 531,
-      "2025-09-01": 99
+      "2025-09-01": 76
     }
   },
   {
