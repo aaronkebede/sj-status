@@ -74,8 +74,7 @@
       "2025-03-17": 38,
       "2025-02-28": 113,
       "2024-10-26": 103,
-      "2024-09-30": 34,
-      "2024-09-17": 44
+      "2024-09-30": 34
     }
   },
   {
@@ -149,12 +148,12 @@
     "slug": "st-john-news-repository",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "73.70%",
-    "uptimeWeek": "70.39%",
+    "uptimeDay": "80.26%",
+    "uptimeWeek": "71.84%",
     "uptimeMonth": "87.32%",
     "uptimeYear": "98.94%",
     "time": 548,
-    "timeDay": 582,
+    "timeDay": 593,
     "timeWeek": 569,
     "timeMonth": 556,
     "timeYear": 549,
