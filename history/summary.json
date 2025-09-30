@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 3333,
-    "timeDay": 124,
-    "timeWeek": 210,
-    "timeMonth": 206,
+    "time": 3331,
+    "timeDay": 149,
+    "timeWeek": 209,
+    "timeMonth": 203,
     "timeYear": 3355,
     "dailyMinutesDown": {
       "2025-04-23": 122,
@@ -48,13 +48,13 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.86%",
-    "time": 781,
-    "timeDay": 914,
-    "timeWeek": 1004,
-    "timeMonth": 1053,
-    "timeYear": 778,
+    "time": 782,
+    "timeDay": 1176,
+    "timeWeek": 1078,
+    "timeMonth": 1049,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2025-09-08": 15,
       "2025-09-02": 17,
@@ -73,8 +73,7 @@
       "2025-06-25": 26,
       "2025-03-17": 38,
       "2025-02-28": 113,
-      "2024-10-26": 103,
-      "2024-09-30": 34
+      "2024-10-26": 103
     }
   },
   {
@@ -88,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 3198,
-    "timeDay": 100,
-    "timeWeek": 124,
-    "timeMonth": 128,
+    "time": 3197,
+    "timeDay": 103,
+    "timeWeek": 120,
+    "timeMonth": 126,
     "timeYear": 3222,
     "dailyMinutesDown": {
       "2025-04-23": 119,
@@ -129,16 +128,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 629,
-    "timeDay": 437,
-    "timeWeek": 544,
-    "timeMonth": 539,
-    "timeYear": 630,
+    "timeDay": 458,
+    "timeWeek": 527,
+    "timeMonth": 543,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-07-16": 33,
       "2025-02-28": 113,
       "2024-12-26": 31,
-      "2024-10-26": 102,
-      "2024-09-30": 33
+      "2024-10-26": 102
     }
   },
   {
@@ -147,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.stjohn.edu.et.ico",
     "slug": "st-john-news-repository",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.08%",
     "uptimeYear": "99.01%",
     "time": 549,
-    "timeDay": 607,
-    "timeWeek": 502,
+    "timeDay": 458,
+    "timeWeek": 513,
     "timeMonth": 557,
-    "timeYear": 550,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2025-09-18": 84,
       "2025-09-17": 381,
@@ -182,18 +180,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1309,
-    "timeDay": 1266,
-    "timeWeek": 1470,
-    "timeMonth": 1405,
+    "time": 1308,
+    "timeDay": 986,
+    "timeWeek": 1455,
+    "timeMonth": 1389,
     "timeYear": 1323,
     "dailyMinutesDown": {
       "2025-07-06": 19,
       "2025-05-14": 76,
       "2025-02-28": 112,
       "2024-10-26": 101,
-      "2024-10-08": 16,
-      "2024-09-30": 32
+      "2024-10-08": 16
     }
   },
   {
@@ -208,17 +205,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 703,
-    "timeDay": 962,
-    "timeWeek": 655,
-    "timeMonth": 711,
-    "timeYear": 694,
+    "timeDay": 495,
+    "timeWeek": 620,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2025-03-27": 24,
       "2025-02-28": 111,
       "2025-01-26": 81,
       "2024-12-30": 15,
-      "2024-10-26": 101,
-      "2024-09-30": 32
+      "2024-10-26": 101
     }
   }
 ]
