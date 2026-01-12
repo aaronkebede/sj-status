@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/classroom.google.com.ico",
     "slug": "st-john-lms",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -143,18 +143,19 @@
     "url": "https://news.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/news.stjohn.edu.et.ico",
     "slug": "st-john-news-repository",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 549,
-    "timeDay": 591,
-    "timeWeek": 527,
+    "timeDay": 530,
+    "timeWeek": 520,
     "timeMonth": 489,
     "timeYear": 563,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2026-01-02": 25,
       "2025-12-15": 32,
       "2025-12-09": 89,
@@ -170,7 +171,7 @@
       "2025-09-12": 311,
       "2025-09-11": 160,
       "2025-09-10": 857,
-      "2025-09-09": 833
+      "2025-09-09": 801
     }
   },
   {
