@@ -13,7 +13,7 @@
     "time": 3198,
     "timeDay": 174,
     "timeWeek": 193,
-    "timeMonth": 234,
+    "timeMonth": 235,
     "timeYear": 3352,
     "dailyMinutesDown": {
       "2025-04-23": 122,
@@ -53,8 +53,8 @@
     "time": 860,
     "timeDay": 1140,
     "timeWeek": 915,
-    "timeMonth": 1182,
-    "timeYear": 1026,
+    "timeMonth": 1195,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2026-01-25": 32,
       "2025-10-21": 24,
@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "email-and-workspace-services",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -132,8 +132,8 @@
     "time": 608,
     "timeDay": 651,
     "timeWeek": 533,
-    "timeMonth": 567,
-    "timeYear": 645,
+    "timeMonth": 562,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2025-07-16": 33,
       "2025-02-28": 113
@@ -144,18 +144,19 @@
     "url": "https://news.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/news.stjohn.edu.et.ico",
     "slug": "st-john-news-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.15%",
-    "time": 549,
-    "timeDay": 519,
-    "timeWeek": 659,
-    "timeMonth": 534,
-    "timeYear": 564,
+    "time": 550,
+    "timeDay": 781,
+    "timeWeek": 697,
+    "timeMonth": 557,
+    "timeYear": 565,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2026-01-29": 44,
       "2026-01-12": 21,
       "2026-01-02": 25,
@@ -173,7 +174,7 @@
       "2025-09-12": 311,
       "2025-09-11": 160,
       "2025-09-10": 857,
-      "2025-09-09": 733
+      "2025-09-09": 715
     }
   },
   {
@@ -190,8 +191,8 @@
     "time": 1530,
     "timeDay": 1326,
     "timeWeek": 1348,
-    "timeMonth": 1512,
-    "timeYear": 1609,
+    "timeMonth": 1510,
+    "timeYear": 1611,
     "dailyMinutesDown": {
       "2026-01-03": 50,
       "2025-12-15": 40,
@@ -217,8 +218,8 @@
     "time": 689,
     "timeDay": 585,
     "timeWeek": 637,
-    "timeMonth": 559,
-    "timeYear": 718,
+    "timeMonth": 565,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2025-10-31": 19,
       "2025-10-15": 45,
