@@ -14,7 +14,7 @@
     "timeDay": 138,
     "timeWeek": 209,
     "timeMonth": 236,
-    "timeYear": 3229,
+    "timeYear": 3218,
     "dailyMinutesDown": {
       "2025-04-23": 122,
       "2025-04-22": 184,
@@ -93,7 +93,7 @@
     "timeDay": 110,
     "timeWeek": 129,
     "timeMonth": 132,
-    "timeYear": 3086,
+    "timeYear": 3075,
     "dailyMinutesDown": {
       "2025-04-23": 119,
       "2025-04-22": 181,
@@ -144,18 +144,19 @@
     "url": "https://news.stjohn.edu.et",
     "icon": "https://icons.duckduckgo.com/ip3/news.stjohn.edu.et.ico",
     "slug": "st-john-news-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.15%",
-    "time": 549,
-    "timeDay": 546,
-    "timeWeek": 526,
-    "timeMonth": 578,
-    "timeYear": 566,
+    "time": 550,
+    "timeDay": 654,
+    "timeWeek": 556,
+    "timeMonth": 583,
+    "timeYear": 567,
     "dailyMinutesDown": {
+      "2026-02-23": 0,
       "2026-01-29": 44,
       "2026-01-12": 21,
       "2026-01-02": 25,
@@ -173,7 +174,7 @@
       "2025-09-12": 311,
       "2025-09-11": 160,
       "2025-09-10": 857,
-      "2025-09-09": 733
+      "2025-09-09": 715
     }
   },
   {
